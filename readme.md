@@ -82,5 +82,4 @@ For any issues or questions, refer to the troubleshooting section or contact the
 ## Support
 
 For further assistance, feel free to reach out:
-- **Email**: support@company.com
-- **Documentation**: [Link to full documentation]
+- [**Email**:] (stat.data247@gmail.com)
