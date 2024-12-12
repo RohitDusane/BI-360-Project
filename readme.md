@@ -1,8 +1,4 @@
-# Power BI Dashboard - Dataset Overview & Design
-
-In a data-driven business environment, deriving actionable insights is key to making informed decisions. This project aims to analyze a comprehensive dataset related to sales transactions, using various data analysis and visualization techniques to uncover patterns, trends, and insights that can drive strategic decisions.
-
-# AtliQ Hardware Business Insights 360 Power BI Project
+# AtliQ Hardware Business Insights 360 Power BI Dashboard Project
 
 ## Problem Statement
 Welcome to the AtliQ Hardware Business Insights 360 Power BI project! This initiative explores the business operations of AtliQ Hardware, a fictional global consumer electronics company. Despite its rapid growth, the company struggled with inefficient Excel-based data analysis, resulting in significant financial losses, particularly in the Latin American market. To overcome this challenge, AtliQ’s leadership team launched a dedicated data analytics project to streamline operations and enhance decision-making.
@@ -82,4 +78,4 @@ For any issues or questions, refer to the troubleshooting section or contact the
 ## Support
 
 For further assistance, feel free to reach out:
-- [**Email**:] (stat.data247@gmail.com)
+- **Email**: (stat.data247@gmail.com)
