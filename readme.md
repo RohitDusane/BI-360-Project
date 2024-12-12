@@ -12,8 +12,7 @@ Welcome to the AtliQ Hardware Business Insights 360 Power BI project! This initi
 - **Data Volume**: Approximately **18.5 million rows**
 - **Database Structure**: Star and Snowflake Schema
 - **Fiscal Year**: September to August
-- **Dashboard Link**: [Explore the live dashboard here]
-https://app.powerbi.com/links/sqzsq5dQKD?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=db73a9c5-28c3-41ec-bd7b-4d6c35a636c6
+- **Dashboard Link**: [Explore the live dashboard here]https://app.powerbi.com/links/sqzsq5dQKD?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=db73a9c5-28c3-41ec-bd7b-4d6c35a636c6
 
 ## Tech Stack
 - SQL
